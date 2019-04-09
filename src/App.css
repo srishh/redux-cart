@@ -1,0 +1,19 @@
+.App{
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.products{
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  flex-basis: 60%;
+  border-right: 1px solid gray;
+
+}
+
+.header{
+  text-align: left;
+  margin-left: 10px;
+}
